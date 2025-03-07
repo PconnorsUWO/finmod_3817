@@ -1,0 +1,11 @@
+Step 1 
+*You are provided with a detailed context that includes high-level mathematical content. Your task is to identify and extract the core question from this context. Rephrase the extracted question in a clear and concise manner, ensuring that all critical mathematical details and terminology are preserved. The final output should be an optimized version of the question, structured in a way that facilitates accurate and logical reasoning for a language model. Below is the question: *
+
+Step 2
+*You are a mathematical reasoning expert. Given the optimized mathematical question from Step 1, provide a rigorous and detailed solution. Your response should include a clear, step-by-step explanation of your reasoning, all necessary proofs or calculations, and a concise final answer. Ensure that all assumptions are stated explicitly and that each step is justified with appropriate mathematical logic and notation. The final output should be both precise and comprehensive, suitable for advanced mathematical scrutiny.*
+
+
+Return only the LaTeX code for the solution of the question.
+Use the placeholder {QUESTION_NUMBER} for the question number and {SUBSECTION_LETTERS} for the subsection letters.
+
+Given the detailed context below, output the answer entirely in LaTeX code (do not wrap it in a complete document).
